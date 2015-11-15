@@ -1,0 +1,28 @@
+MODELS
+  CITIZENS
+	
+  BANKS
+   id
+   name
+   type
+   reg_no
+   founded
+   headquarters
+   key_people
+   services
+   website
+   logo_url
+
+   
+    
+  TRANSACTIONS
+
+  ADMIN
+   id
+   username
+   password
+   secuirity_question
+   email
+   phone
+   level
+
